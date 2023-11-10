@@ -4,10 +4,14 @@
 ## Привет, меня зовут Максим и я... Аналитик данных :smirk:
 
 
-<div id="badges">
+<div id="badges"  align="center">
     <a href="https://t.me/NCH_SOKUR">
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
     </a>
+    <a href="mailto:sokur.working@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail Badge"/>
+    </a>
+
 </div>
 
 
