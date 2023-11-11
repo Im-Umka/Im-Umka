@@ -48,5 +48,12 @@
         <td align="left"><a href="https://www.livelib.ru/book/1006159807-osnovy-tehnologij-baz-dannyh-ekaterina-gorshkova?ysclid=loszud0sx0923084856" title="Страница на LiveLib.ru">Основы технологий баз данных - Новиков Б. А., Горшкова Е. А., Графеева Н. Г.</a></td>
         <td align="center">🟢⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️</td>
     </tr>    
+    <tr>
+        <td align="left"><a href="https://www.livelib.ru/book/1000670999-matematicheskij-analiz-komplekt-iz-2-knig-v-a-zorich?ysclid=lou2dbg1rx843320504" title="Страница на LiveLib.ru">Математический анализ (комплект из 2 книг) - Зорич В. А.</a></td>
+        <td align="center">🟢⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️</td>
+    </tr>  
 </table>
+
+
+
 
