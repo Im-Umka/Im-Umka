@@ -58,7 +58,7 @@
     </tr> 
     <tr>
         <td align="left"><a href="https://otus.ru/online/online-linux" title="Страница на otus.ru">Linux для начинающих (видеокурс) - Андрей Буранов</a></td>
-        <td align="center">🟢🟢⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️</td>
+        <td align="center">🟢🟢🟢⚪️⚪️⚪️⚪️⚪️⚪️⚪️</td>
     </tr> 
 </table>
 
