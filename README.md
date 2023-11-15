@@ -54,7 +54,7 @@
     </tr>  
     <tr>
         <td align="left"><a href="https://sql-academy.org/ru/profile/89040" title="Страница на sql-academy.org">SQL Academy</a></td>
-        <td align="center">🟢🟢🟢🟢⚪️⚪️⚪️⚪️⚪️⚪️</td>
+        <td align="center">🟢🟢🟢🟢🟢🟢⚪️⚪️⚪️⚪️</td>
     </tr> 
     <tr>
         <td align="left"><a href="https://otus.ru/online/online-linux" title="Страница на otus.ru">Linux для начинающих (видеокурс) - Андрей Буранов</a></td>
