@@ -11,7 +11,6 @@
     <a href="mailto:sokur.working@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail Badge"/>
     </a>
-
 </div>
 
 
@@ -60,7 +59,12 @@
         <td align="left"><a href="https://otus.ru/online/online-linux" title="Страница на otus.ru">Linux для начинающих (видеокурс) - Андрей Буранов</a></td>
         <td align="center">🟢🟢🟢🟢🟢🟢🟢🟢⚪️⚪️</td>
     </tr> 
+        <tr>
+        <td align="left"><a href="http://www.sql-ex.ru/users_page.php?uid=695836" title="Страница на sql-ex"> MAX LVL ON SQL-EX</a></td>
+        <td align="center">14360 lvl</td>
+    </tr> 
 </table>
+
 
 
 
