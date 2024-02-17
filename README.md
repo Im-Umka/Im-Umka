@@ -25,7 +25,7 @@
     <tr>
         <td align="left"> 
         <a href="https://www.livelib.ru/book/1001174728-sql-polnoe-rukovodstvo-dzhejms-r-groff?ysclid=loszbjt35b499844457" title="Страница на LiveLib.ru">SQL. Полное руководство - Джеймс Р. Грофф, Пол Н. Вайнберг, Эндрю Дж. Оппель</a> </td>
-        <td align="center">🟢🟢🟢⚪️⚪️⚪️⚪️⚪️⚪️⚪️</td>
+        <td align="center">🟢🟢🟢🟢🟢🟢⚪️⚪️⚪️⚪️</td>
     </tr>
     <tr>
         <td align="left"><a href="https://www.livelib.ru/book/1000020456-iskusstvo-programmirovaniya-tom-1-osnovnye-algoritmy-donald-e-knut?ysclid=loszkucpb2230878264" title="Страница на LiveLib.ru">Искусство программирования. Том 1. Основные алгоритмы - Дональд Э. Кнут</a></td>
