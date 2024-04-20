@@ -33,7 +33,7 @@
     </tr>
     <tr>
         <td align="left"><a href="https://www.livelib.ru/book/1001404711-pro-git-skott-chakon?ysclid=loszoaa0et993608384" title="Страница на LiveLib.ru">Pro Git - Скотт Чакон, Бен Штрауб</a></td>
-        <td align="center">🟢⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️</td>
+        <td align="center">🟢🟢🟢⚪️⚪️⚪️⚪️⚪️⚪️⚪️</td>
     </tr>
     <tr>
         <td align="left"><a href="https://www.livelib.ru/book/1008424192-idiomy-bash-olbing-karl?ysclid=loszqiejlr957972485" title="Страница на LiveLib.ru">Идиомы bash - Олбинг Карл, Фоссен Джей Пи</a></td>
